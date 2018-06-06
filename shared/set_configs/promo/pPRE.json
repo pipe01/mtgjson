@@ -2,7 +2,6 @@
   "SET": {
     "name": "Prerelease Events",
     "code": "pPRE",
-    "magicCardsInfoCode": "ptc",
     "magicRaritiesCodes": ["82-rarities-prerelease-events-promos"],
     "isMCISet": true,
     "releaseDate": "1997-10-04",

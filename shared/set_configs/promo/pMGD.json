@@ -2,7 +2,6 @@
   "SET": {
     "name": "Magic Game Day",
     "code": "pMGD",
-    "magicCardsInfoCode": "mgdc",
     "magicRaritiesCodes": ["119-rarities-magic-game-day-cards"],
     "isMCISet": true,
     "releaseDate": "2007-07-14",

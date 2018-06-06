@@ -3,18 +3,15 @@
     "name": "Portal",
     "code": "POR",
     "gathererCode": "PO",
-    "magicCardsInfoCode": "po",
     "releaseDate": "1997-05-01",
     "border": "black",
     "type": "starter",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],
-    "translations": {
+    "languages": {
       "de": "Portal",
       "fr": "Portal",
       "es": "Portal"
     },
-    "mkm_name": "Portal",
-    "mkm_id": 25
   },
   "SET_CORRECTIONS": [{
     "renumberImages": "Anaconda",

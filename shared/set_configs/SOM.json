@@ -2,7 +2,6 @@
   "SET": {
     "name": "Scars of Mirrodin",
     "code": "SOM",
-    "magicCardsInfoCode": "som",
     "releaseDate": "2010-10-01",
     "border": "black",
     "type": "expansion",
@@ -10,19 +9,17 @@
     "booster": [
       ["rare", "mythic rare"], "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "land", "marketing"
     ],
-    "translations": {
+    "languages": {
       "de": "Die Narben von Mirrodin",
       "fr": "Les cicatrices de Mirrodin",
       "it": "Cicatrici di Mirrodin",
       "es": "Cicatrices de Mirrodin",
       "pt": "Cicatrizes de Mirrodin",
       "jp": "ミラディンの傷跡",
-      "cn": "秘罗地创痕",
+      "cs": "秘罗地创痕",
       "ru": "Шрамы Мирродина",
-      "tw": "秘罗地创痕"
+      "ct": "秘罗地创痕"
     },
-    "mkm_name": "Scars of Mirrodin",
-    "mkm_id": 1206
   },
   "SET_CORRECTIONS": [{
     "match": {

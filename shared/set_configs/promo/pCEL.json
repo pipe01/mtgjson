@@ -2,7 +2,6 @@
   "SET": {
     "name": "Celebration",
     "code": "pCEL",
-    "magicCardsInfoCode": "uqc",
     "magicRaritiesCodes": ["353-rarities-unique-cards", "352-rarities-garfield-event-cards", "798-rarities-special-guest-gift-cards"],
     "isMCISet": true,
     "releaseDate": "1996-08-14",

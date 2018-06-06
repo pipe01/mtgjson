@@ -2,7 +2,6 @@
   "SET": {
     "name": "Media Inserts",
     "code": "pMEI",
-    "magicCardsInfoCode": "mbp",
     "magicRaritiesCodes": [
       "189-rarities-agent-of-artifice-novel-promo-insert",
       "109-rarities-harperprism-book-inserts",

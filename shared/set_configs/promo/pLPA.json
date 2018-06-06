@@ -2,7 +2,6 @@
   "SET": {
     "name": "Launch Parties",
     "code": "pLPA",
-    "magicCardsInfoCode": "mlp",
     "magicRaritiesCodes": ["226-rarities-pre-launch-party-cards"],
     "isMCISet": true,
     "releaseDate": "2008-02-01",

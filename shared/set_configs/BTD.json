@@ -3,12 +3,9 @@
     "name": "Beatdown Box Set",
     "code": "BTD",
     "gathererCode": "BD",
-    "magicCardsInfoCode": "bd",
     "releaseDate": "2000-10-01",
     "border": "white",
     "type": "box",
-    "mkm_name": "Beatdown",
-    "mkm_id": 62
   },
   "SET_CORRECTIONS": [{
     "renumberImages": "Forest",

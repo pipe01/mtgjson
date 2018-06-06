@@ -2,7 +2,6 @@
   "SET": {
     "name": "Magic Player Rewards",
     "code": "pMPR",
-    "magicCardsInfoCode": "mprp",
     "magicRaritiesCodes": ["29-rarities-magic-player-rewards"],
     "isMCISet": true,
     "releaseDate": "2001-05-01",

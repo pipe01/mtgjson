@@ -2,14 +2,11 @@
   "SET": {
     "name": "Duel Decks: Izzet vs. Golgari",
     "code": "DDJ",
-    "magicCardsInfoCode": "ddj",
     "releaseDate": "2012-09-07",
     "border": "black",
     "type": "duel deck",
-    "translations": {
+    "languages": {
       "jp": "デュエルデッキ：イゼット vs. ゴルガリ"
     },
-    "mkm_name": "Duel Decks: Izzet vs. Golgari",
-    "mkm_id": 1398
   }
 }

@@ -2,12 +2,9 @@
   "SET": {
     "name": "Deckmasters",
     "code": "DKM",
-    "magicCardsInfoCode": "dm",
     "releaseDate": "2001-12-01",
     "border": "white",
     "type": "box",
-    "mkm_name": "Deckmasters",
-    "mkm_id": 67
   },
   "SET_CORRECTIONS": [{
     "match": {

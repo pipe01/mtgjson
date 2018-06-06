@@ -3,17 +3,14 @@
     "name": "Introductory Two-Player Set",
     "code": "ITP",
     "oldCode": "I2P",
-    "magicCardsInfoCode": "itp",
     "releaseDate": "1996-12-31",
     "border": "white",
     "type": "starter",
-    "translations": {
+    "languages": {
       "de": "Introductory Two-Player Set",
       "fr": "Introductory Two-Player Set",
       "es": "Introductory Two-Player Set"
     },
-    "mkm_name": "Introductory Two-Player Set",
-    "mkm_id": 85
   },
   "SET_CORRECTIONS": ["noBasicLandWatermarks", {
     "match": {

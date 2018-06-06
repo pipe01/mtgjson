@@ -2,7 +2,6 @@
   "SET": {
     "name": "Vintage Masters",
     "code": "VMA",
-    "magicCardsInfoCode": "vma",
     "releaseDate": "2014-06-16",
     "border": "black",
     "type": "masters",

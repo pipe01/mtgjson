@@ -3,21 +3,18 @@
     "name": "Stronghold",
     "code": "STH",
     "gathererCode": "ST",
-    "magicCardsInfoCode": "sh",
     "releaseDate": "1998-03-02",
     "border": "black",
     "type": "expansion",
     "block": "Tempest",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],
-    "translations": {
+    "languages": {
       "de": "Felsenburg",
       "fr": "Forteresse",
       "it": "Fortezza",
       "es": "Fortaleza",
       "pt": "Fortaleza"
     },
-    "mkm_name": "Stronghold",
-    "mkm_id": 20
   },
   "SET_CORRECTIONS": [{
     "match": {

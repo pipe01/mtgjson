@@ -2,7 +2,6 @@
   "SET": {
     "name": "Theros",
     "code": "THS",
-    "magicCardsInfoCode": "ths",
     "releaseDate": "2013-09-27",
     "border": "black",
     "type": "expansion",
@@ -10,20 +9,18 @@
     "booster": [
       ["rare", "mythic rare"], "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "land", "marketing"
     ],
-    "translations": {
+    "languages": {
       "de": "Theros",
       "fr": "Theros",
       "it": "Theros",
       "es": "Theros",
       "pt": "Theros",
       "jp": "テーロス",
-      "cn": "Theros",
+      "cs": "Theros",
       "ru": "Theros",
-      "tw": "Theros",
+      "ct": "Theros",
       "ko": "Theros"
     },
-    "mkm_name": "Theros",
-    "mkm_id": 1457
   },
   "SET_CORRECTIONS": [{
     "match": {

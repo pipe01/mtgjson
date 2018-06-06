@@ -3,21 +3,18 @@
     "name": "Portal Second Age",
     "code": "PO2",
     "gathererCode": "P2",
-    "magicCardsInfoCode": "po2",
     "oldCode": "P02",
     "releaseDate": "1998-06-24",
     "border": "black",
     "type": "starter",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],
-    "translations": {
+    "languages": {
       "de": "Portal Zweites Zeitalter",
       "fr": "Portal Second Age",
       "it": "Portal Seconda Era",
       "es": "Portal Segunda Edad",
       "pt": "Portal Segunda Era"
     },
-    "mkm_name": "Portal Second Age",
-    "mkm_id": 24
   },
   "SET_CORRECTIONS": [{
     "renumberImages": "Forest",

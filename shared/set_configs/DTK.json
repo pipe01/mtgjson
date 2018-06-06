@@ -2,7 +2,6 @@
   "SET": {
     "name": "Dragons of Tarkir",
     "code": "DTK",
-    "magicCardsInfoCode": "dtk",
     "essentialMagicCode": "106",
     "releaseDate": "2015-03-27",
     "border": "black",
@@ -11,19 +10,17 @@
     "booster": [
       ["rare", "mythic rare"], "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "land", "marketing"
     ],
-    "translations": {
+    "languages": {
       "de": "Drachen von Tarkir",
       "fr": "Les dragons de Tarkir",
       "it": "Draghi di Tarkir",
       "es": "Dragones de Tarkir",
       "pt": "Dragões de Tarkir",
       "jp": "タルキール龍紀伝",
-      "cn": "鞑契龙王",
+      "cs": "鞑契龙王",
       "ru": "Драконы Таркира",
-      "tw": "韃契龍王",
+      "ct": "韃契龍王",
       "ko": "타르커의 용"
     },
-    "mkm_name": "Dragons of Tarkir",
-    "mkm_id": 1601
   }
 }

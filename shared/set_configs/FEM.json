@@ -3,13 +3,10 @@
     "name": "Fallen Empires",
     "code": "FEM",
     "gathererCode": "FE",
-    "magicCardsInfoCode": "fe",
     "releaseDate": "1994-11-15",
     "border": "black",
     "type": "expansion",
     "booster": [["rare","uncommon"],["rare","uncommon"],"common","common","common","common","common","common"],
-    "mkm_name": "Fallen Empires",
-    "mkm_id": 9
   },
   "SET_CORRECTIONS": [{
     "renumberImages": "Armor Thrull",

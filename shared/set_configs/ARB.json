@@ -2,7 +2,6 @@
   "SET": {
     "name": "Alara Reborn",
     "code": "ARB",
-    "magicCardsInfoCode": "arb",
     "releaseDate": "2009-04-30",
     "border": "black",
     "type": "expansion",
@@ -10,17 +9,15 @@
     "booster": [
       ["rare", "mythic rare"], "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "land", "marketing"
     ],
-    "translations": {
+    "languages": {
       "de": "Alara Reborn",
       "fr": "Alara Reborn",
       "it": "Rinascita di Alara",
       "es": "Alara Reborn",
       "pt": "Alara Reborn",
       "jp": "アラーラ再誕",
-      "cn": "Alara Reborn",
+      "cs": "Alara Reborn",
       "ru": "Alara Reborn"
     },
-    "mkm_name": "Alara Reborn",
-    "mkm_id": 108
   }
 }

@@ -2,24 +2,21 @@
   "SET": {
     "name": "Time Spiral",
     "code": "TSP",
-    "magicCardsInfoCode": "ts",
     "releaseDate": "2006-10-06",
     "border": "black",
     "type": "expansion",
     "block": "Time Spiral",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "timeshifted purple"],
-    "translations": {
+    "languages": {
       "de": "Zeitspirale",
       "fr": "Spirale Temporelle",
       "it": "Spirale Temporale",
       "es": "Espiral del Tiempo",
       "pt": "Time Spiral",
       "jp": "時のらせん",
-      "cn": "Time Spiral",
+      "cs": "Time Spiral",
       "ru": "Спираль времени"
     },
-    "mkm_name": "Time Spiral",
-    "mkm_id": 56
   },
   "SET_CORRECTIONS": [{
     "match": {

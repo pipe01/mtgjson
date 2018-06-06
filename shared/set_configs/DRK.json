@@ -3,16 +3,13 @@
     "name": "The Dark",
     "code": "DRK",
     "gathererCode": "DK",
-    "magicCardsInfoCode": "dk",
     "releaseDate": "1994-08-08",
     "border": "black",
     "type": "expansion",
     "booster": [["rare","uncommon"],["rare","uncommon"],"common","common","common","common","common","common"],
-    "translations": {
+    "languages": {
       "it": "L'Oscurità"
     },
-    "mkm_name": "The Dark",
-    "mkm_id": 8
   },
   "SET_CORRECTIONS": [{
     "match": {

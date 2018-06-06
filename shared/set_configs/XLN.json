@@ -2,7 +2,6 @@
   "SET": {
     "name": "Ixalan",
     "code": "XLN",
-    "magicCardsInfoCode": "xln",
     "releaseDate": "2017-09-29",
     "border": "black",
     "type": "expansion",
@@ -10,7 +9,7 @@
     "booster": [
       ["rare", "mythic rare"], "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "land", "marketing"
     ],
-    "translations": {
+    "languages": {
       "de": "Ixalan",
       "fr": "Ixalan",
       "it": "Ixalan",
@@ -18,8 +17,6 @@
       "pt": "Ixalan",
       "ru": "Ixalan"
     },
-    "mkm_name": "Ixalan",
-    "mkm_id": 114
   },
   "SET_CORRECTIONS": [
   ]

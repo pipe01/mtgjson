@@ -2,7 +2,6 @@
   "SET": {
     "name": "Innistrad",
     "code": "ISD",
-    "magicCardsInfoCode": "isd",
     "releaseDate": "2011-09-30",
     "border": "black",
     "type": "expansion",
@@ -10,18 +9,16 @@
     "booster": [
       ["rare", "mythic rare"], "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", ["land", "checklist"], "marketing", "double faced"
     ],
-    "translations": {
+    "languages": {
       "de": "Innistrad",
       "fr": "Innistrad",
       "it": "Innistrad",
       "es": "Innistrad",
       "pt": "Innistrad",
       "jp": "イニストラード",
-      "cn": "依尼翠",
+      "cs": "依尼翠",
       "ru": "Innistrad",
-      "tw": "依尼翠"
+      "ct": "依尼翠"
     },
-    "mkm_name": "Innistrad",
-    "mkm_id": 1327
   }
 }

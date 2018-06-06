@@ -2,7 +2,6 @@
   "SET": {
     "name": "Zendikar",
     "code": "ZEN",
-    "magicCardsInfoCode": "zen",
     "releaseDate": "2009-10-02",
     "border": "black",
     "type": "expansion",
@@ -10,18 +9,16 @@
     "booster": [
       ["rare", "mythic rare"], "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "land", "marketing"
     ],
-    "translations": {
+    "languages": {
       "de": "Zendikar",
       "fr": "Zendikar",
       "it": "Zendikar",
       "es": "Zendikar",
       "pt": "Zendikar",
       "jp": "ゼンディカー",
-      "cn": "赞迪卡",
+      "cs": "赞迪卡",
       "ru": "Zendikar"
     },
-    "mkm_name": "Zendikar",
-    "mkm_id": 114
   },
   "SET_CORRECTIONS": [{
     "match": {

@@ -3,13 +3,10 @@
     "name": "Antiquities",
     "code": "ATQ",
     "gathererCode": "AQ",
-    "magicCardsInfoCode": "aq",
     "releaseDate": "1994-03-04",
     "border": "black",
     "type": "expansion",
     "booster": [["rare","uncommon"],["rare","uncommon"],"common","common","common","common","common","common"],
-    "mkm_name": "Antiquities",
-    "mkm_id": 5
   },
   "SET_CORRECTIONS": [{
     "match": {

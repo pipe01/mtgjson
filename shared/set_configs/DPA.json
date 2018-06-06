@@ -2,12 +2,9 @@
   "SET": {
     "name": "Duels of the Planeswalkers",
     "code": "DPA",
-    "magicCardsInfoCode": "dpa",
     "releaseDate": "2010-06-04",
     "border": "black",
     "type": "box",
-    "mkm_name": "Duels of the Planeswalkers Decks",
-    "mkm_id": 1193
   },
   "SET_CORRECTIONS": ["numberCards", "sortCards", {
     "match": {

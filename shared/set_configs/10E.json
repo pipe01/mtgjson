@@ -2,24 +2,21 @@
   "SET": {
     "name": "Tenth Edition",
     "code": "10E",
-    "magicCardsInfoCode": "10e",
     "releaseDate": "2007-07-13",
     "border": "black",
     "type": "core",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "land", "marketing"],
-    "translations": {
+    "languages": {
       "de": "Zehnte Edition",
       "fr": "Dixième édition",
       "it": "Decima Edizione",
       "es": "Décima Edición",
       "pt": "Décima Edição",
       "jp": "第10版",
-      "cn": "第十版",
+      "cs": "第十版",
       "ru": "Десятое Издание",
-      "tw": "Tenth Edition"
+      "ct": "Tenth Edition"
     },
-    "mkm_name": "Tenth Edition",
-    "mkm_id": 74
   },
   "SET_CORRECTIONS": [{
     "match": {

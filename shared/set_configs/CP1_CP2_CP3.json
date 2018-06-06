@@ -4,8 +4,7 @@
       "name": "Magic 2015 Clash Pack",
       "code": "CP1",
       "isMCISet": true,
-      "magicCardsInfoCode": "clash",
-      "releaseDate": "2014-07-18",
+        "releaseDate": "2014-07-18",
       "border": "black",
       "type": "starter"
     },
@@ -18,8 +17,7 @@
       "name": "Fate Reforged Clash Pack",
       "code": "CP2",
       "isMCISet": true,
-      "magicCardsInfoCode": "clash",
-      "releaseDate": "2015-01-23",
+        "releaseDate": "2015-01-23",
       "border": "black",
       "type": "starter"
     },
@@ -38,8 +36,7 @@
       "name": "Magic Origins Clash Pack",
       "code": "CP3",
       "isMCISet": true,
-      "magicCardsInfoCode": "mbp",
-      "releaseDate": "2015-07-17",
+        "releaseDate": "2015-07-17",
       "border": "black",
       "type": "starter"
     },

@@ -2,7 +2,6 @@
   "SET": {
     "name": "Oath of the Gatewatch",
     "code": "OGW",
-    "magicCardsInfoCode": "ogw",
     "releaseDate": "2016-01-22",
     "border": "black",
     "type": "expansion",
@@ -10,7 +9,7 @@
     "booster": [
       ["rare", "mythic rare"], "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "land", "marketing"
     ],
-    "translations": {
+    "languages": {
       "pt": "Juramento das Sentinelas",
       "es": "El juramento de los Guardianes",
       "ru": "Клятва Стражей",

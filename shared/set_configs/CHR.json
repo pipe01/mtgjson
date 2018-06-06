@@ -3,13 +3,10 @@
     "name": "Chronicles",
     "code": "CHR",
     "gathererCode": "CH",
-    "magicCardsInfoCode": "ch",
     "releaseDate": "1995-07-01",
     "border": "white",
     "type": "reprint",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common"],
-    "mkm_name": "Chronicles",
-    "mkm_id": 12
   },
   "SET_CORRECTIONS": [{
     "match": {

@@ -3,21 +3,18 @@
     "name": "Planeshift",
     "code": "PLS",
     "gathererCode": "PS",
-    "magicCardsInfoCode": "ps",
     "releaseDate": "2001-02-05",
     "border": "black",
     "type": "expansion",
     "block": "Invasion",
     "booster": ["rare", "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common"],
-    "translations": {
+    "languages": {
       "de": "Weltenwechsel",
       "fr": "Planeshift",
       "it": "Congiunzione",
       "es": "Transmigración",
       "pt": "Conjunção"
     },
-    "mkm_name": "Planeshift",
-    "mkm_id": 35
   },
   "SET_CORRECTIONS": [{
     "renumberImages": "Ertai, the Corrupted",

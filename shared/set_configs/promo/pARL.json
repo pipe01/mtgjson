@@ -2,7 +2,6 @@
   "SET": {
     "name": "Arena League",
     "code": "pARL",
-    "magicCardsInfoCode": "arena",
     "magicRaritiesCodes": ["7-rarities-arena-league-promos"],
     "isMCISet": true,
     "releaseDate": "1996-08-02",

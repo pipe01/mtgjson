@@ -3,13 +3,10 @@
     "name": "Unglued",
     "code": "UGL",
     "gathererCode": "UG",
-    "magicCardsInfoCode": "ug",
     "releaseDate": "1998-08-11",
     "border": "silver",
     "type": "un",
     "booster": ["rare", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "land"],
-    "mkm_name": "Unglued",
-    "mkm_id": 22
   },
   "SET_CORRECTIONS": [{
     "match": {

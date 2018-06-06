@@ -3,8 +3,7 @@
     "SET": {
       "name": "Gateway",
       "code": "pGTW",
-      "magicCardsInfoCode": "grc",
-      "magicRaritiesCodes": ["76-rarities-gateway-promos"],
+        "magicRaritiesCodes": ["76-rarities-gateway-promos"],
       "isMCISet": true,
       "releaseDate": "2006-01-01",
       "border": "black",
@@ -18,8 +17,7 @@
     "SET": {
       "name": "Wizards Play Network",
       "code": "pWPN",
-      "magicCardsInfoCode": "grc",
-      "magicRaritiesCodes": ["255-rarities-wpn-promos"],
+        "magicRaritiesCodes": ["255-rarities-wpn-promos"],
       "isMCISet": true,
       "releaseDate": "2008-10-01",
       "border": "black",

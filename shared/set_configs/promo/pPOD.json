@@ -2,7 +2,6 @@
   "SET": {
     "name": "Portal Demo Game",
     "code": "pPOD",
-    "magicCardsInfoCode": "pot",
     "isMCISet": true,
     "releaseDate": "1997-05-01",
     "border": "black",
